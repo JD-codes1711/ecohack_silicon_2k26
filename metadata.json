@@ -1,0 +1,5 @@
+{
+  "name": "Smart Campus Plastic Waste Monitoring Dashboard",
+  "description": "A comprehensive real-time dashboard for monitoring IoT-enabled plastic waste bins on campus, featuring a built-in SRS documentation viewer for hackathon compliance.",
+  "requestFramePermissions": []
+}
